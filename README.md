@@ -1,5 +1,5 @@
 # TO_DO_APP
 
 
-Do Check App Below
+Do Check Website Below
 http://abmestri.pythonanywhere.com/
